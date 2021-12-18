@@ -22,18 +22,18 @@
     "0": {
       "js": [
         {
-          "file": "i18n-ar.8ea19787c7c7e3841076.chunk.js",
+          "file": "i18n-ar.d910ef9759e4a709f13e.chunk.js",
           "hash": "f9c32684393579ecf925",
-          "publicPath": "/dist/i18n-ar.8ea19787c7c7e3841076.chunk.js"
+          "publicPath": "/littraSite/dist/i18n-ar.d910ef9759e4a709f13e.chunk.js"
         }
       ]
     },
     "1": {
       "js": [
         {
-          "file": "i18n-en.8ea19787c7c7e3841076.chunk.js",
+          "file": "i18n-en.d910ef9759e4a709f13e.chunk.js",
           "hash": "bbaa3ee2239f5feb21b6",
-          "publicPath": "/dist/i18n-en.8ea19787c7c7e3841076.chunk.js"
+          "publicPath": "/littraSite/dist/i18n-en.d910ef9759e4a709f13e.chunk.js"
         }
       ]
     },
@@ -41,24 +41,24 @@
       "css": [
         {
           "file": "main.css",
-          "hash": "b7a5453d1005d9faca08",
-          "publicPath": "/dist/main.css"
+          "hash": "568c219bffbae723105e",
+          "publicPath": "/littraSite/dist/main.css"
         }
       ],
       "js": [
         {
           "file": "main-bundle.js",
-          "hash": "b7a5453d1005d9faca08",
-          "publicPath": "/dist/main-bundle.js"
+          "hash": "568c219bffbae723105e",
+          "publicPath": "/littraSite/dist/main-bundle.js"
         }
       ]
     },
     "3": {
       "js": [
         {
-          "file": "3.8ea19787c7c7e3841076.chunk.js",
+          "file": "3.d910ef9759e4a709f13e.chunk.js",
           "hash": "d31394ca394def008f6d",
-          "publicPath": "/dist/3.8ea19787c7c7e3841076.chunk.js"
+          "publicPath": "/littraSite/dist/3.d910ef9759e4a709f13e.chunk.js"
         }
       ]
     }
