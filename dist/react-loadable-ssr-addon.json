@@ -22,18 +22,18 @@
     "0": {
       "js": [
         {
-          "file": "i18n-ar.456a43151fbcdeb03df6.chunk.js",
+          "file": "i18n-ar.fedfd2befec7dbc3c353.chunk.js",
           "hash": "f9c32684393579ecf925",
-          "publicPath": "/i18n-ar.456a43151fbcdeb03df6.chunk.js"
+          "publicPath": "/i18n-ar.fedfd2befec7dbc3c353.chunk.js"
         }
       ]
     },
     "1": {
       "js": [
         {
-          "file": "i18n-en.456a43151fbcdeb03df6.chunk.js",
+          "file": "i18n-en.fedfd2befec7dbc3c353.chunk.js",
           "hash": "bbaa3ee2239f5feb21b6",
-          "publicPath": "/i18n-en.456a43151fbcdeb03df6.chunk.js"
+          "publicPath": "/i18n-en.fedfd2befec7dbc3c353.chunk.js"
         }
       ]
     },
@@ -41,14 +41,14 @@
       "css": [
         {
           "file": "main.css",
-          "hash": "12cf03ab941635b364e6",
+          "hash": "5022e62e7c3ad63cacc8",
           "publicPath": "/main.css"
         }
       ],
       "js": [
         {
           "file": "main-bundle.js",
-          "hash": "12cf03ab941635b364e6",
+          "hash": "5022e62e7c3ad63cacc8",
           "publicPath": "/main-bundle.js"
         }
       ]
@@ -56,9 +56,9 @@
     "3": {
       "js": [
         {
-          "file": "3.456a43151fbcdeb03df6.chunk.js",
+          "file": "3.fedfd2befec7dbc3c353.chunk.js",
           "hash": "d31394ca394def008f6d",
-          "publicPath": "/3.456a43151fbcdeb03df6.chunk.js"
+          "publicPath": "/3.fedfd2befec7dbc3c353.chunk.js"
         }
       ]
     }
